@@ -1,5 +1,5 @@
-import { DashboardFeature } from '@/components/dashboard/dashboard-feature'
+import Lending from '@/components/lending/Lending'
 
 export default function Home() {
-  return <DashboardFeature />
+  return <Lending />
 }

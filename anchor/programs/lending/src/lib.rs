@@ -9,7 +9,7 @@ mod error;
 mod constants;
 mod instructions;
 
-declare_id!("FqzkXZdwYjurnUKetJCAvaUw5WAqbwzU6gZEwydeEfqS");
+declare_id!("CsKLRFCLjqjtvLeUp61dGs6PvX1iQM23o5PWviFFZkdt");
 
 #[program]
 pub mod lending {
